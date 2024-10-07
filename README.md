@@ -21,10 +21,12 @@ Ce projet a pour but d'automatiser la collecte d'informations sur le matériel e
 ## Résultat
 Les résultats seront enregistrés dans des fichiers CSV / JSON et PDF dans le dossier `Results`
 
-## Licence
-
-[MIT LICENCE](https://github.com/PotiteBulle/Fluffy_Inventory_Manager/blob/main/LICENSE)
-
 
 ## Contribuer
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou à soumettre une `pull request`.
+Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une `issue` ou à soumettre une `pull request`.
+
+
+## Licence
+
+[MIT Licence](https://github.com/PotiteBulle/Fluffy_Inventory_Manager/blob/main/LICENSE)
+
