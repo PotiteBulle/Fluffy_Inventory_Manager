@@ -1,6 +1,6 @@
 # Fluffy_Inventory_Manager
 
-Fluffy Inventory Manager est un outil d'automatisation développé en PowerShell, conçu pour faciliter la collecte d'informations sur le matériel et les logiciels installés sur les machines Windows. Ce script recueille des données telles que les spécifications matérielles (CPU, RAM, disques) et la liste des applications installées, puis les exporte au format CSV pour une gestion simplifiée. Fluffy Inventory Manager vise à simplifier l'audit et la gestion des ressources informatiques, tout en permettant aux administrateurice de suivre l'inventaire de manière efficace et automatisée.
+Fluffy Inventory Manager est un outil d'automatisation développé en PowerShell, conçu pour faciliter la collecte d'informations sur le matériel et les logiciels installés sur les machines Windows. Ce script recueille des données telles que les spécifications matérielles (CPU, RAM, disques) et la liste des applications installées, puis les exporte au format CSV pour une gestion simplifiée. Fluffy Inventory Manager vise à simplifier l'audit et la gestion des ressources informatiques, tout en permettant aux administrateurices de suivre l'inventaire de manière efficace et automatisée.
 
 # Automatisation de l'inventaire matériel et logiciel
 
