@@ -10,7 +10,7 @@ Ce projet a pour but d'automatiser la collecte d'informations sur le matériel e
 
 - Collecte d'informations sur le matériel (CPU, RAM, disques).
 - Collecte d'informations sur les logiciels installés.
-- Exportation des résultats vers des fichiers CSV.
+- Exportation des résultats vers des fichiers CSV / JSON et PDF.
 
 ## Prérequis
 
@@ -19,7 +19,7 @@ Ce projet a pour but d'automatiser la collecte d'informations sur le matériel e
 
 
 ## Résultat
-Les résultats seront enregistrés dans des fichiers CSV dans le dossier `Results`
+Les résultats seront enregistrés dans des fichiers CSV / JSON et PDF dans le dossier `Results`
 
 ## Licence
 
