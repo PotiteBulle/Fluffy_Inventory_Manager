@@ -21,6 +21,7 @@ Ce projet a pour but d'automatiser la collecte d'informations sur le matériel e
 ## Résultat
 Les résultats seront enregistrés dans des fichiers CSV / JSON et PDF dans le dossier `Results`
 
+![exemple de résultat](/results.png)
 
 ## Contribuer
 Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une `issue` ou à soumettre une `pull request`.
